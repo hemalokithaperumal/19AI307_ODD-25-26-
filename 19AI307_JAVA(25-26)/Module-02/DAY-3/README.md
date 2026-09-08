@@ -29,8 +29,8 @@ To write a Java program that defines a class Person with private instance variab
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Hariharan M
-RegisterNumber:  212224100019
+Developed by: HEMA LOKITHA P
+RegisterNumber:  212223110014
 */
 ```
 

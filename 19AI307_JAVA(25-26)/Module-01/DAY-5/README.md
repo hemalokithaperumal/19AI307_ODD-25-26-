@@ -23,8 +23,8 @@ To write a Java program that finds the absolute value of a given number using th
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: ABDULLAH R
-Register Number:212223230004
+Developed by: HEMA LOKITHA P
+RegisterNumber:  212223110014
 */
 ```
 

@@ -27,27 +27,7 @@ To write a Java program that demonstrates the use of variables, data types, oper
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: From:
-HEMA LOKITHA P
-Reg. No.: 212223110014
-Saveetha Engineering College
-
-To:
-The Principal
-Saveetha Engineering College
-Chennai
-
-Subject: Request for Gate Pass Approval for Sunday Outing
-
-Respected Madam,
-
-I am writing to request permission to grant me a gate pass on saturday(12/09/2026) to my native due to holidays. I kindly request you to approve my gate pass for the above-mentioned date.
-
-Thank you.
-
-Yours sincerely,
-
-HEMA LOKITHA P
+Developed by:HEMA LOKITHA P
 Reg. No.: 212223110014
 */
 ```
